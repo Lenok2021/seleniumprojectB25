@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d9c8b28-1956-432c-bf29-0b6253825582" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/YahooTitleVerification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/day1_selenium_intro/BasicNavigations.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/day1_selenium_intro/BasicNavigations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/YahooTitleVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day1_selenium_intro/YahooTitleVerification.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +100,7 @@
       <workItem from="1643678005245" duration="736000" />
       <workItem from="1643679009785" duration="46000" />
       <workItem from="1643727913547" duration="2304000" />
-      <workItem from="1643743441075" duration="8469000" />
+      <workItem from="1643743441075" duration="8786000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1643750370705</created>
@@ -125,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1643751615023</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="initial commit">
+      <created>1643752392490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643752392490</updated>
+    </task>
+    <task id="LOCAL-00005" summary="initial commit">
+      <created>1643752473365</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643752473365</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
