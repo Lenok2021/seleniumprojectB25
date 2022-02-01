@@ -76,9 +76,19 @@ public class BasicNavigations {
         // different output, BC  we have different pages
 
 
+        // close all opened  windows, closes browser
+        driver.quit();
+
+        // will close only the currently opened browser
+        // if we have only one opened window only current window
+        // will be closed
+        driver.close();
 
 
-        driver.manage().window().maximize();
+
+
+
+
 
 
     }
