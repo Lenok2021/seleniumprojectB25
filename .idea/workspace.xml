@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d9c8b28-1956-432c-bf29-0b6253825582" name="Changes" comment="LibrayLoginPage" />
+    <list default="true" id="4d9c8b28-1956-432c-bf29-0b6253825582" name="Changes" comment="LibrayLoginPage">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/practice/Close_Quite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/practice/Driver_Navigate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/practice/GetCurrentURL_PageSourceCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/practice/GetTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2/practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/day2/TC_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/day2/TC_5.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,13 +54,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.TC_5">
-    <configuration name="Cydeo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day1_selenium_intro.Cydeo" />
+  <component name="RunManager" selected="Application.GetCurrentURL_PageSourceCode">
+    <configuration name="Close_Quite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.practice.Close_Quite" />
       <module name="seleniumprojectB25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day1_selenium_intro.*" />
+          <option name="PATTERN" value="com.cydeo.tests.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T2_LinkTextPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2.T2_LinkTextPractice" />
+    <configuration name="Driver_Navigate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.practice.Driver_Navigate" />
       <module name="seleniumprojectB25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day2.*" />
+          <option name="PATTERN" value="com.cydeo.tests.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T3_GoogleSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2.T3_GoogleSearch" />
+    <configuration name="GetCurrentURL_PageSourceCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.practice.GetCurrentURL_PageSourceCode" />
       <module name="seleniumprojectB25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day2.*" />
+          <option name="PATTERN" value="com.cydeo.tests.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T4_LibraryVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2.T4_LibraryVerification" />
+    <configuration name="GetTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.practice.GetTitle" />
       <module name="seleniumprojectB25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day2.*" />
+          <option name="PATTERN" value="com.cydeo.tests.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TC_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2.TC_5" />
+    <configuration name="practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2.practice" />
       <module name="seleniumprojectB25" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TC_5" />
-        <item itemvalue="Application.T4_LibraryVerification" />
-        <item itemvalue="Application.T3_GoogleSearch" />
-        <item itemvalue="Application.T2_LinkTextPractice" />
-        <item itemvalue="Application.Cydeo" />
+        <item itemvalue="Application.GetCurrentURL_PageSourceCode" />
+        <item itemvalue="Application.GetTitle" />
+        <item itemvalue="Application.Close_Quite" />
+        <item itemvalue="Application.Driver_Navigate" />
+        <item itemvalue="Application.practice" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +146,7 @@
       <workItem from="1643763697598" duration="2984000" />
       <workItem from="1643898928426" duration="7000" />
       <workItem from="1643981404247" duration="18885000" />
+      <workItem from="1644013943153" duration="3030000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1643750370705</created>
@@ -286,7 +295,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644012072534</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="LibrayLoginPage">
+      <created>1644013977909</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1644013977909</updated>
+    </task>
+    <task id="LOCAL-00023" summary="LibrayLoginPage">
+      <created>1644014006730</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1644014006730</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
