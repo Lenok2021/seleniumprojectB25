@@ -31,6 +31,7 @@ public class T4_LibraryVerification {
 
         // 5. Click to Sign in Bottom
         WebElement sighInBottom = driver.findElement(By.tagName("bottom"));
+        sighInBottom.click();
 
 
 
