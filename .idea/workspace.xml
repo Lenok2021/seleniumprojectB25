@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d9c8b28-1956-432c-bf29-0b6253825582" name="Changes" comment="initial commit" />
+    <list default="true" id="4d9c8b28-1956-432c-bf29-0b6253825582" name="Changes" comment="LibrayLoginPage">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2/T4_LibraryVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2/T4_LibraryVerification.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +41,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.T3_GoogleSearch">
+  <component name="RunManager" selected="Application.T4_LibraryVerification">
     <configuration name="Cydeo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day1_selenium_intro.Cydeo" />
       <module name="seleniumprojectB25" />
@@ -91,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day1_selenium_intro.Test2" />
+    <configuration name="T4_LibraryVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.day2.T4_LibraryVerification" />
       <module name="seleniumprojectB25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.day1_selenium_intro.*" />
+          <option name="PATTERN" value="com.cydeo.tests.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T4_LibraryVerification" />
         <item itemvalue="Application.T3_GoogleSearch" />
         <item itemvalue="Application.T2_LinkTextPractice" />
         <item itemvalue="Application.Cydeo" />
         <item itemvalue="Application.LocateElement" />
-        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +132,7 @@
       <workItem from="1643743441075" duration="9235000" />
       <workItem from="1643763697598" duration="2984000" />
       <workItem from="1643898928426" duration="7000" />
-      <workItem from="1643981404247" duration="13505000" />
+      <workItem from="1643981404247" duration="14610000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1643750370705</created>
@@ -236,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644006209280</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="LibrayLoginPage">
+      <created>1644006595427</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1644006595427</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -255,7 +265,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="LibrayLoginPage" />
+    <option name="LAST_COMMIT_MESSAGE" value="LibrayLoginPage" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
