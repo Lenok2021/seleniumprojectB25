@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d9c8b28-1956-432c-bf29-0b6253825582" name="Changes" comment="LibrayLoginPage">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/practice/Idendify_Element_By_Parciant_Link.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/practice/LocateElement_ByLink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/practice/CydeoTask.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,9 +49,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.Idendify_Element_By_Parciant_Link">
-    <configuration name="GetCurrentURL_PageSourceCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.practice.GetCurrentURL_PageSourceCode" />
+  <component name="RunManager" selected="Application.CydeoTask">
+    <configuration name="CydeoTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.practice.CydeoTask" />
       <module name="seleniumprojectB25" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CydeoTask" />
         <item itemvalue="Application.Idendify_Element_By_Parciant_Link" />
         <item itemvalue="Application.LocateElement_ByLink" />
         <item itemvalue="Application.LocateElement_BY_Name" />
         <item itemvalue="Application.LocateElement_By_ID" />
-        <item itemvalue="Application.GetCurrentURL_PageSourceCode" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +141,9 @@
       <workItem from="1643763697598" duration="2984000" />
       <workItem from="1643898928426" duration="7000" />
       <workItem from="1643981404247" duration="18885000" />
-      <workItem from="1644013943153" duration="6794000" />
+      <workItem from="1644013943153" duration="7620000" />
+      <workItem from="1644169765456" duration="658000" />
+      <workItem from="1644185494975" duration="1035000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1643750370705</created>
@@ -326,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644021885554</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="LibrayLoginPage">
+      <created>1644023125637</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1644023125637</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
