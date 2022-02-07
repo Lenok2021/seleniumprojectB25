@@ -39,5 +39,7 @@ public class CydeoTask {
         }
 
 
+        driver.close();
+
     }
 }
