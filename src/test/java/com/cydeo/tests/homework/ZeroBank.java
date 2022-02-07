@@ -34,7 +34,7 @@ Expected: “Log in to ZeroBank”
             System.out.println("FAILED !!!");
         }
 
-
+  driver.close();
 
     }
 }

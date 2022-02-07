@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d9c8b28-1956-432c-bf29-0b6253825582" name="Changes" comment="LibrayLoginPage">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homework/ZeroBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homework/BackAndForthNavigation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homework/Home.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homework/ZeroBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/homework/ZeroBank.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,26 +51,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.ZeroBank">
-    <configuration name="A_B_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.practice.A_B_Test" />
+  <component name="RunManager" selected="Application.Home">
+    <configuration name="BackAndForthNavigation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.homework.BackAndForthNavigation" />
       <module name="seleniumprojectB25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Apple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.practice.Apple" />
-      <module name="seleniumprojectB25" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cydeo.tests.practice.*" />
+          <option name="PATTERN" value="com.cydeo.tests.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,6 +67,19 @@
     </configuration>
     <configuration name="Etsy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.homework.Etsy" />
+      <module name="seleniumprojectB25" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.tests.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Home" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.homework.Home" />
       <module name="seleniumprojectB25" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Home" />
+        <item itemvalue="Application.BackAndForthNavigation" />
         <item itemvalue="Application.ZeroBank" />
         <item itemvalue="Application.Etsy" />
         <item itemvalue="Application.Library" />
-        <item itemvalue="Application.Apple" />
-        <item itemvalue="Application.A_B_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +145,7 @@
       <workItem from="1643981404247" duration="18885000" />
       <workItem from="1644013943153" duration="7620000" />
       <workItem from="1644169765456" duration="658000" />
-      <workItem from="1644185494975" duration="9672000" />
+      <workItem from="1644185494975" duration="10417000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1643750370705</created>
@@ -369,7 +371,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644202865666</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="LibrayLoginPage">
+      <created>1644203351968</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1644203351968</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
