@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d9c8b28-1956-432c-bf29-0b6253825582" name="Changes" comment="LibrayLoginPage">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/practice/A_B_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/practice/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/practice/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/practice/CydeoTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/practice/CydeoTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/practice/Idendify_Element_By_Parciant_Link.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/practice/Idendify_Element_By_Parciant_Link.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2/T4_LibraryVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/tests/day2/T4_LibraryVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/practice/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/cydeo/tests/practice/Apple.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +51,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager" selected="Application.Apple">
+  <component name="RunManager" selected="Application.Library">
     <configuration name="A_B_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.practice.A_B_Test" />
       <module name="seleniumprojectB25" />
@@ -105,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LocateElement_ByLink" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.practice.LocateElement_ByLink" />
+    <configuration name="Library" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.tests.practice.Library" />
       <module name="seleniumprojectB25" />
       <extension name="coverage">
         <pattern>
@@ -120,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Library" />
         <item itemvalue="Application.Apple" />
         <item itemvalue="Application.A_B_Test" />
         <item itemvalue="Application.CydeoTask" />
         <item itemvalue="Application.Idendify_Element_By_Parciant_Link" />
-        <item itemvalue="Application.LocateElement_ByLink" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +145,7 @@
       <workItem from="1643981404247" duration="18885000" />
       <workItem from="1644013943153" duration="7620000" />
       <workItem from="1644169765456" duration="658000" />
-      <workItem from="1644185494975" duration="5147000" />
+      <workItem from="1644185494975" duration="7715000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1643750370705</created>
@@ -344,7 +343,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644188143893</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="LibrayLoginPage">
+      <created>1644192527970</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1644192527970</updated>
+    </task>
+    <task id="LOCAL-00030" summary="LibrayLoginPage">
+      <created>1644192666954</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1644192666954</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

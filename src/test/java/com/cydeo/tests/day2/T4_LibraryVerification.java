@@ -19,6 +19,7 @@ public class T4_LibraryVerification {
         driver.get("https://library2.cybertekschool.com/login.html");
 
         //3. Enter username: “incorrect@email.com”
+        // INPUT  TAG  accepts input from users
         WebElement usernameInput = driver.findElement(By.className("form-control"));
         usernameInput.sendKeys("incorrect@email.com");
 
