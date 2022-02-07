@@ -34,7 +34,15 @@ Expected: Title should start with “apple” word
 
        // 4- Verify title:
       //  Expected: Title should start with “apple” word
+          String expectedTitle = "Apple";
+          String actualTitle = driver.getTitle();
+          if(actualTitle.startsWith(expectedTitle)){
+              System.out.println("PASSED");
+          }else{
+              System.out.println("FAILED");
+          }
 
+          driver.close();
 
     }
 }
