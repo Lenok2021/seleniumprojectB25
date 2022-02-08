@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class ZeroBank {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 
         /*
         TC #2: Zero Bank header verification
@@ -24,6 +24,8 @@ Expected: “Log in to ZeroBank”
 
         driver.get("http://zero.webappsecurity.com/login.html ");
 
+          Thread.sleep(3000);
+
         WebElement headerText = driver.findElement(By.tagName("h3"));
         String expectedResult = "Log in to ZeroBank";
         String actualResult = headerText.getText();
@@ -34,7 +36,9 @@ Expected: “Log in to ZeroBank”
             System.out.println("FAILED !!!");
         }
 
-  driver.close();
+  driver.quit();
+
+
 
     }
 }
